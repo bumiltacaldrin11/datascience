@@ -1,7 +1,7 @@
-#!/usr/bin/env python
-# coding: utf-8
+# COE 003 / CPE22FA1
+# Datascience
 
-# In[1]:
+# Programs and Contents
 
 
 a = []
